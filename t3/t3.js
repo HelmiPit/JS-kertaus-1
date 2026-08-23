@@ -1,3 +1,5 @@
+'use strict';
+
 const a = parseFloat(prompt('Sivu 1:'));
 const b = parseFloat(prompt('Sivu 2:'));
 const c = parseFloat(prompt('Sivu 3:'));

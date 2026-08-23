@@ -1,3 +1,5 @@
+'use strict';
+
 let score = prompt("Anna pistemäärä (0-100):");
 let grade;
 
